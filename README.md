@@ -47,22 +47,3 @@ It allows adding users, creating connections, and visualizing the network.
 
 ---
 
-##  Project Structure
-ITDPA_Project/
-│── patient_scheduler.py # Patient management system
-│── social_network_manager.py # Social media connections manager
-│── README.md # Project documentation
-│── requirements.txt # Dependencies (for Part 2)
-│── .gitignore # Ignore unnecessary files
-
-
-
----
-
-## Running the Project  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/<Ndivho-Mutavhatsindi>/ITDPA_Project.git
-cd ITDPA_Project
-
